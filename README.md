@@ -1,1 +1,1 @@
-# KU-2022-Hackathon-
+# HWAC 2022 Hackathon
